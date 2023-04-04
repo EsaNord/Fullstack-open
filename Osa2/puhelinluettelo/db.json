@@ -1,0 +1,49 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040123456",
+      "id": 1
+    },
+    {
+      "name": "Henri Tavas",
+      "number": "03124598",
+      "id": 2
+    },
+    {
+      "name": "Jani Metsä",
+      "number": "050457836",
+      "id": 3
+    },
+    {
+      "name": "Marja Alitalo",
+      "number": "041523879",
+      "id": 4
+    },
+    {
+      "name": "Orvokki Ylitalo",
+      "number": "040512384",
+      "id": 5
+    },
+    {
+      "name": "Tiina Ojanen",
+      "number": "050457631",
+      "id": 6
+    },
+    {
+      "name": "Arto Mäki",
+      "number": "050197563",
+      "id": 7
+    },
+    {
+      "name": "Topi Kannas",
+      "number": "041789852",
+      "id": 8
+    },
+    {
+      "name": "Tapani Joki",
+      "number": "050178954",
+      "id": 9
+    }
+  ]
+}
